@@ -1,4 +1,4 @@
-export type ExperienceCategory = "esports" | "corporate" | "media";
+export type ExperienceCategory = "esports" | "content" | "operations" | "management";
 
 export interface WorkExperience {
   company: string;
